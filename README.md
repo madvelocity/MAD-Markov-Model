@@ -94,7 +94,7 @@ The pipeline is deterministic given the same input data. Because `01_data.py` pu
 
 ## Paper
 
-The full write-up — *"Position Within Trend: The MAD-Markov Model for Calibrated Regime-Transition Forecasting"* — is available here: **[add link]**.
+The full write-up — *"Position Within Trend: The MAD-Markov Model for Calibrated Regime-Transition Forecasting"* — is available here: **(https://github.com/madvelocity/MAD-Markov-Model/blob/main/MAD-Markov-Model.pdf)**.
 
 ## References
 
