@@ -1,0 +1,5 @@
+metric,model,base
+brier,0.1839,0.204
+log_loss,0.5413,0.5886
+hard_accuracy_pct,71.8,71.0
+timing_mae_days,3.37,3.43

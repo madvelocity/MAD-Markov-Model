@@ -1,0 +1,7 @@
+regime,label,pct
+-3,ext_neg,4.15
+-2,negative,9.23
+-1,mild_neg,22.97
+1,mild_pos,46.2
+2,positive,15.98
+3,ext_pos,1.47

@@ -1,0 +1,7 @@
+regime,label,n_visits,mean_days,median_days,std_days,max_days
+-3,ext_neg,90,2.89,2.0,2.63,14
+-2,negative,287,2.01,1.0,1.63,15
+-1,mild_neg,549,2.62,2.0,2.3,19
+1,mild_pos,614,4.71,3.0,5.35,46
+2,positive,294,3.4,2.0,3.18,17
+3,ext_pos,27,3.41,2.0,3.65,17

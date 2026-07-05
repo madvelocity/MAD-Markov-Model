@@ -1,0 +1,7 @@
+regime,label,count,pct
+-3,extreme_negative,260,4.15
+-2,negative,578,9.23
+-1,mild_negative,1439,22.97
+1,mild_positive,2894,46.2
+2,positive,1001,15.98
+3,extreme_positive,92,1.47

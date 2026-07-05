@@ -1,0 +1,13 @@
+regime,label,exit,n_visits,mean_days,median_days
+-3,ext_neg,up,90,2.89,2.0
+-3,ext_neg,down,0,,
+-2,negative,up,210,1.99,1.0
+-2,negative,down,77,2.08,1.0
+-1,mild_neg,up,347,2.57,2.0
+-1,mild_neg,down,202,2.71,2.0
+1,mild_pos,up,262,3.77,3.0
+1,mild_pos,down,352,5.41,3.0
+2,positive,up,26,4.54,4.0
+2,positive,down,268,3.29,2.0
+3,ext_pos,up,0,,
+3,ext_pos,down,27,3.41,2.0
